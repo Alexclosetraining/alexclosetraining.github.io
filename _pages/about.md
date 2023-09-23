@@ -9,7 +9,7 @@ profile:
   image: IMG_9840.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Driven Fitness</p>
+    <p></p>
 
 
 news: false  # includes a list of news items
@@ -17,10 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Alex Close and I am a motivated Data Science and Machine Learning Researcher with 5+ years experience in multiple research streams and 2+ in industry roles. From developing a novel dataset of 50,000+ high-stake lying facial images, to leveraging databases of over 20 million samples, I have striven to broaden my research skills whenever I can.
+Hello, My name is Alex Close, a dedicated Certified Strength and Conditioning Specialist (CSCS) and Personal Trainer (ACE). I obtained my degree from East Carolina University, where my passion for performance, health, fitness, and nutrition began to flourish.
 
-Having grown up on a sustainable agricultural farm, I have always been passionate about environmentalism. I believe that the work we do in the field of computer science has the potential to lead to a healthier planet. Through my research, I ultimately want to leave a positive impact. The high-stake lying dataset I helped create and publish could help the wrongfully convicted. The research I do in materials science, on discovering new metal-organic frameworks, could be used in gas separation, air purification, and carbon capture.
+Hailing from a small town in the Northeast, I carried my enthusiasm for fitness and wellness with me when I embarked on a new chapter of my life in Tampa in early 2023. Since then, I've been actively engaged in helping individuals achieve their fitness goals and enhance their overall well-being.
 
-My experience as a researcher allowed me to serve in an internship as an Artificial Intelligence Research Associate at a startup company directly involved in lowering harmful emissions from power plants. This rewarding position lets me leave a positive impact on the planet. Through analyzing furnace sensors and camera image data, we can optimize the combustion of fuel in real-time for improved efficiency and functionality.
+My professional journey encompasses a wide array of fitness services, including personal training, sports performance training, nutrition, and more. I am deeply committed to empowering my clients to unlock their full potential, whether they are striving for peak athletic performance, improved health, or enhanced fitness.
 
-My goal is to continue to improve society and the planet in one way or another, and follow this trend throughout my career. I currently work as a Consultant on the Strategic Sourcing Optimization team for The Resource Group, subsidiary of Ascension Healthcare. In this role I build out analytical tools, dashboards and reports for business leaders and departments to help guide their decision making. The work I do helps save costs for both the company and the patients seeking affordable care.
+My approach to training and conditioning is rooted in evidence-based practices, ensuring that each client receives tailored guidance and support that aligns with their unique goals and needs. I believe that a holistic approach to health and wellness, encompassing not only physical fitness but also nutrition and lifestyle choices, is key to achieving lasting results.
+Whether you're an athlete looking to excel in your sport, someone striving for a healthier lifestyle, or anyone in between, I am here to support you every step of the way.
+
+I'm thrilled to be a part of the vibrant Tampa fitness community and am always eager to connect with new individuals who share my passion for fitness and well-being. Let's embark on this journey together and work towards achieving your fitness and performance goals. Feel free to reach out to me, and let's start making positive changes in your life today!
