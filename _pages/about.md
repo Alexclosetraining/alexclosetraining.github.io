@@ -27,3 +27,8 @@ My approach to training and conditioning is rooted in evidence-based practices, 
 Whether you're an athlete looking to excel in your sport, someone striving for a healthier lifestyle, or anyone in between, I am here to support you every step of the way.
 
 I'm thrilled to be a part of the vibrant Tampa fitness community and am always eager to connect with new individuals who share my passion for fitness and well-being. Let's embark on this journey together and work towards achieving your fitness and performance goals. Feel free to reach out to me, and let's start making positive changes in your life today! 
+
+
+<p align="center">
+<img src=assets/img/logo.png?raw=true width="75%"/>
+</p>
