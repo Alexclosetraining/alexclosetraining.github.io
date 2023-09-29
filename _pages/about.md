@@ -29,6 +29,5 @@ Whether you're an athlete looking to excel in your sport, someone striving for a
 I'm thrilled to be a part of the vibrant Tampa fitness community and am always eager to connect with new individuals who share my passion for fitness and well-being. Let's embark on this journey together and work towards achieving your fitness and performance goals. Feel free to reach out to me, and let's start making positive changes in your life today! 
 
 
-<p align="center">
-![logo](/assets/img/logo.png)
-</p>
+
+![logo](/alexclosetraining.github.io/assets/img/logo.png)
