@@ -30,4 +30,4 @@ I'm thrilled to be a part of the vibrant Tampa fitness community and am always e
 
 
 
-![logo](/alexclosetraining.github.io/assets/img/logo.png)
+![logo](/img/logo.png)
