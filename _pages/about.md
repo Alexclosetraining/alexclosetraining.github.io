@@ -30,5 +30,5 @@ I'm thrilled to be a part of the vibrant Tampa fitness community and am always e
 
 
 <p align="center">
-<img src=assets/img/logo.png?raw=true width="75%"/>
+![logo](/assets/img/logo.png)
 </p>
